@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node brand-build.cjs",
+  "buildCommand": "node brand-build.cjs && node scripts/prepare-static.mjs && node scripts/brand-check.mjs dist",
   "cleanUrls": false,
   "headers": [
     {
@@ -16,5 +16,5 @@
       ]
     }
   ],
-  "outputDirectory": "."
+  "outputDirectory": "dist"
 }
