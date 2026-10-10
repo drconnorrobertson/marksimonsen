@@ -1,0 +1,48 @@
+{
+  "repo": "marksimonsen",
+  "domain": "www.marksimonsencpa.com",
+  "label": "Mark Simonsen, CPA",
+  "eyebrow": "Meet the professionals behind the plan",
+  "headline": "Bring clarity to your next tax planning decision.",
+  "intro": "Learn about Mark Simonsen, CPA, and find AE Tax Advisors resources for business ownership and real estate. Understand the engagement process before taking the next step.",
+  "service": "/bios/",
+  "role": "Professional profile and service orientation",
+  "topics": [
+    [
+      "Professional profile",
+      "/profile/",
+      "Read the background published on this site."
+    ],
+    [
+      "The AE team",
+      "https://www.aetaxadvisors.com/bios/",
+      "Meet the professionals at AE Tax Advisors."
+    ],
+    [
+      "Engagement process",
+      "https://www.aetaxadvisors.com/services/",
+      "Review advisory services and discuss the appropriate scope."
+    ]
+  ],
+  "prepare": [
+    "Recent returns and supporting schedules",
+    "Current financial statements",
+    "Ownership and planned transactions",
+    "The questions requiring professional judgment"
+  ],
+  "steps": [
+    [
+      "Define the decision",
+      "Identify the event and desired outcome."
+    ],
+    [
+      "Organize the evidence",
+      "Gather the records behind the facts."
+    ],
+    [
+      "Confirm next steps",
+      "Discuss scope, responsibility, and timing."
+    ]
+  ],
+  "generated": false
+}
