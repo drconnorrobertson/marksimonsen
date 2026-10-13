@@ -1,5 +1,5 @@
 {
-  "buildCommand": "node brand-build.cjs && node scripts/prepare-static.mjs && node scripts/brand-check.mjs dist",
+  "buildCommand": "node brand-build.cjs && node scripts/prepare-static.mjs && node scripts/brand-check.mjs dist && node scripts/buyer-intent-release.cjs dist",
   "cleanUrls": false,
   "headers": [
     {
