@@ -1,0 +1,4 @@
+fictional_scenario,quantity,per_unit_amount,calculated_charge,limit
+SCENARIO-A,200,50,10000,"Invented charges, not profit or cash"
+SCENARIO-B,200,55,11000,Fixed quantity is a selected assumption
+SCENARIO-C,180,50,9000,No probability or actual result supplied
