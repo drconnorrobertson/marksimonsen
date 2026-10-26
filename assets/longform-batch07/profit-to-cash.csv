@@ -1,0 +1,9 @@
+fictional_item,signed_change,running_amount,unit
+Net profit,10000,10000,currency units
+Depreciation adjustment,1000,11000,currency units
+Receivables increase,-4000,7000,currency units
+Payables increase,2000,9000,currency units
+Equipment cash purchase,-5000,4000,currency units
+Loan principal paid,-1000,3000,currency units
+Beginning cash,20000,,currency units
+Ending cash,23000,,currency units
