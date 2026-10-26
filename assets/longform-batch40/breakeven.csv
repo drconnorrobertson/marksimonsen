@@ -1,0 +1,7 @@
+fictional_case,fixed_cost_USD,unit_price_USD,unit_variable_cost_USD,scope
+Base,12000,100,60,Single-product monthly assumptions
+WholeUnitBoundary,12500,95,58,Indivisible unit assumption
+HigherFixed,15000,100,60,Other inputs unchanged
+HigherVariable,12000,100,65,Other inputs unchanged
+LowerPrice,12000,90,60,No demand prediction
+ZeroContribution,12000,60,60,No finite break-even under this model
